@@ -1,0 +1,33 @@
+[
+    {
+    "name":"Mango",
+    "price":154,
+    "feature":true,
+    "company":"XYZ"
+
+    },
+
+    {
+        "name":"Apple",
+        "price":154,
+        "feature":true,
+        "company":"BCA"   
+        },
+        
+        {
+            "name":"Orange",
+            "price":154,
+            "feature":true,
+            "company":"BSC"
+          },
+
+            {
+                "name":"Banana",
+                "price":154,
+                "feature":true,
+                "company":"CBZ"
+
+            }
+
+            
+]
